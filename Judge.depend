@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1511369789 source:e:\programming\judge\main.cpp
+	"judge.h"
+
+1511370858 e:\programming\judge\judge.h
+	<vector>
+	<algorithm>
+
+1511371004 source:e:\programming\judge\judge.cpp
+	"judge.h"
+	"windows.h"
+	<cstring>
+
